@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Detect11ax</string>
+    <string name="ssid_filter">Enter SSID here</string>
+    <string name="button_scan">Scan</string>
+    <string name="ap_count_title">Total 802.11ax AP Count: </string>
+    <string name="ap_count">0 </string>
+    <string name="ap_ssid">
+        "    SSID:"
+    </string>
+</resources>
